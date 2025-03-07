@@ -1,0 +1,40 @@
+{
+	"general": {
+		"pleaseprovidea": "Veuillez fournir un",
+		"loading": "Chargement ...",
+		"submit": "Soumettre",
+		"back":"précédente",
+		"action": "Action"
+		
+	},
+	"loggedinas": {
+		"title": "connecté en tant que "
+	},
+	"locations": {
+		"name": "Nom de la branche",
+		"vehiclesinbranch": "Véhicules en succursale",
+		"usersinbranch": "Utilisateurs dans la branche",
+		"addbranch": "Ajouter une branche",
+		"address": "adresse",
+		"cell": "cellule",
+		"phone": "téléphone",
+		"city": "ville",
+		"state": "état",
+		"zip": "zip",
+		"logo": "logo",
+		"email": "email",
+		"branches": "branche"
+	},
+	"business": {
+		"editbusiness": "Modifier l'entreprise",
+		"name": "nom",
+		"address": "address",
+		"city": "ville",
+		"state": "état",
+		"zip": "zip",
+		"logo": "logo",
+		"owner": "Owner",
+		"country": "Country",
+		"email": "Email"
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"general": {
+		"pleaseprovidea": "Please Provide a",
+		"loading": "Loading ...",
+		"submit": "Submit",
+		"back":"Back",
+		"action": "Action"
+	},
+	"loggedinas": {
+		"title": "Logged in as "
+	},
+	"leftbar": {
+		"home": "Home",
+		
+		"login": "Login",
+		"logout": "LogOut",
+		"welcome": "Welcome",
+		"submit": "Submit",
+		"close": "Close"
+	},
+	"login": {
+		"email": "E-mail",
+		"password": "Password",
+		"pleaseprovidea": "Please provide a",
+		"selectan": "Please Select a"
+	},
+	"locations": {
+		"name": "Location Name",
+		"vehiclesinbranch": "Vehicles In Branch",
+		"usersinbranch": "Users In Branch",
+		"addbranch": "Add Branch",
+		"address": "address",
+		"cell": "cell",
+		"phone": "phone",
+		"city": "city",
+		"state": "state",
+		"zip": "zip",
+		"logo": "logo",
+		"email": "email",
+		"branches": "Branches",
+		"country": "Country"
+	},
+	"business": {
+		"editbusiness": "Edit Business",
+		"name": "Name",
+		"address": "address",
+		"city": "city",
+		"state": "state",
+		"zip": "zip",
+		"owner": "Owner",
+		"country": "Country",
+		"email": "Email"
+	}
+}
